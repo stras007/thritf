@@ -1,7 +1,7 @@
 ## thrift
 ***
 ### 一、项目描述  
-#### 游戏匹配服务 参考自:https://git.acwing.com/ycr2022/thrift
+#### 游戏匹配服务 参考自:<https://git.acwing.com/ycr2022/thrift>
 <img src="game.jpg">
 
 - 服务分为三部分：分别是game，match_system，save_server
